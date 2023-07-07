@@ -1,0 +1,27 @@
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.exe.config
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.exe
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.pdb
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.xml
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Resources.resources
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.GenerateResource.cache
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.exe
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.xml
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.pdb
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Form1.resources
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.AssemblyReference.cache
+C:\Users\Javier Blasco\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Form2.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.exe.config
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.exe
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.pdb
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\bin\Debug\JavierBlasco_Calculadora.xml
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.AssemblyReference.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Form1.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Form2.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Resources.resources
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.GenerateResource.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.exe
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.xml
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.pdb
+C:\Users\blasc\OneDrive\Javi\2 DAM\Diseño de Interfaces\Repositorio\JavierBlasco_Calculadora\obj\Debug\JavierBlasco_Calculadora.Form3.resources
